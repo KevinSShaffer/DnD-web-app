@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Interactive DM Screen</title>
+		<link rel='stylesheet' href='styles.css'>
+		<script src='myScripts.js'></script>
+	</head>
+	<body>
+		<table id='battleTable'>
+		</table>
+		<p />
+		<select id='enemyType'>
+			<option value=''>Select enemy</option>
+			<option value='Goblin'>Goblin</option>
+			<option value='Bugbear'>Bugbear</option>
+		</select>
+		<input id='enemyAmount' type='number' style='width:50px;'>
+		<button onclick='addEnemies()'>Add</button>
+	</body>
+</html>

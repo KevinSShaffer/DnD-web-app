@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENEMIES>
+  <UNIT>
+    <NAME>Goblin</NAME>
+    <MAXHP>7</MAXHP>
+    <INIT>3</INIT>
+    <ATK>4</ATK>
+    <AC>13</AC>
+  </UNIT>
+  <UNIT>
+    <NAME>Bugbear</NAME>
+    <MAXHP>27</MAXHP>
+    <INIT>3</INIT>
+    <ATK>5</ATK>
+    <AC>16</AC>
+  </UNIT>
+</ENEMIES>
